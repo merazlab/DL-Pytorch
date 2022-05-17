@@ -1,4 +1,5 @@
-dataset
+dataset/
+main*.py
 *.pyc
 *.txt
-main*.py
+
